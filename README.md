@@ -1,4 +1,4 @@
-# AI Presentation — Final
+# AI Presentation — Final 33 slides
 
 Финальная учебная презентация: история и будущее искусственного интеллекта.
 
@@ -11,7 +11,10 @@
 - Codex / OpenCode / Claude Code;
 - архитектура OpenClaw;
 - практический алгоритм для студентов;
+- мифы и реальность;
+- где ИИ полезен студенту;
+- практикум на 10 минут;
 - книга, которую стоит прочитать.
 
 Скачать финальную версию:
-`AI_Istoriya_i_budushchee_II_FINAL.pptx`
+`AI_Istoriya_i_budushchee_II_FINAL_33.pptx`
